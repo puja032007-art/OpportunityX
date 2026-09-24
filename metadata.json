@@ -1,0 +1,8 @@
+{
+  "name": "OpportunityX",
+  "description": "One Profile. Real Opportunities. One Approval. Real verified scholarships, internships, and skill training for Erode, Tamil Nadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
